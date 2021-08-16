@@ -64,7 +64,7 @@ def loadBookTags():
     """
     Carga los BookTags
     """
-    return 'Cree la opcion pero realmente no se que se hace en el controller.'
+    return 'En el documento no dice que se pone aca'
 
 """
 Menu principal
