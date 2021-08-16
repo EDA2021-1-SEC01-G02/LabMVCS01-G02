@@ -2,6 +2,8 @@
 
 Nicolas Perez Teran - n.perezt2@uniandes.edu.co - 202116903
 
+Juan Pablo Rodríguez Briceño -  202022764 - jp.rodriguezb20@uniandes.edu.co
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
