@@ -64,7 +64,7 @@ def loadBookTags():
     """
     Carga los BookTags
     """
-    return 'En el documento no dice que se pone aca'
+    return 'En el documento no dice que se pone aca.'
 
 """
 Menu principal
